@@ -1,0 +1,18 @@
+#header, #footer {
+	height:100px;
+	width:100%;
+	text-align: center;
+	clear:both;
+	background-color: #ddd;
+}
+
+#navigation {
+	width:30%;
+	float:left;
+	background-color: #aaa;
+}
+
+#content {
+	width:70%;
+	float:left;
+}
